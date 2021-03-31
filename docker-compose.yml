@@ -19,3 +19,5 @@ services:
       MYSQL_USER: usuario
       MYSQL_PASSWORD: senha
       TZ: America/Sao_Paulo
+
+# docker-compose up -d
